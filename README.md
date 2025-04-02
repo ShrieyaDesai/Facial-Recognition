@@ -24,12 +24,3 @@ Build a robust model that:
 See [`literature_survey/survey.md`](literature_survey/survey.md) for papers reviewed:
 - [1] Rothe et al. (2015), *DEX: Deep EXpectation of apparent age from a single image*  
 - [2] Others to be added...
-
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/<your-username>/facial-age-gender-classification.git
-cd facial-age-gender-classification
-pip install -r requirements.txt
