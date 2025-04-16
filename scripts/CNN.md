@@ -1,5 +1,5 @@
 
-#🧠 Convolutional Neural Network (CNN) — Explained
+# 🧠 Convolutional Neural Network (CNN) — Explained
 
 CNN is an area of **deep learning** that helps in pattern recognition.
 
