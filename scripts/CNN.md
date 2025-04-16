@@ -51,10 +51,16 @@ This forms the **first layer** of CNN.
 
 ```text
 ✅ Loaded images: 23708
-
+```
+```text 
 ✅ Final dataset shapes:
 X_train: (18966, 100, 100,3)
 ```
+Shape:
+	•	18966 images used for training
+	•	Each image is 100 x 100 pixels
+	•	3 represents RGB channels
+
 
 ```text
 y_gender_train: (18966, 2)
