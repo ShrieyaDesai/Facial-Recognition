@@ -53,10 +53,26 @@ This forms the **first layer** of CNN.
 ✅ Loaded images: 23708
 
 ✅ Final dataset shapes:
-X_train: (18966, 100, 100, 3)
+X_train: (18966, 100, 100,3)
+```
+
+```text
 y_gender_train: (18966, 2)
+```
+Labels for gender classification
+	•	Each label is a one-hot encoded vector with 2 elements:
+	•	[1, 0] → Male
+	•	[0, 1] → Female
+
+```text
 y_age_train: (18966, 4)
 ```
+Labels for age group classification
+	•	Each label is also one-hot encoded:
+	•	[1, 0, 0, 0] → Child
+	•	[0, 1, 0, 0] → Teen
+	•	[0, 0, 1, 0] → Adult
+	•	[0, 0, 0, 1] → Senior
 
 ---
 ## ⚙️ Frameworks: Keras & TensorFlow
