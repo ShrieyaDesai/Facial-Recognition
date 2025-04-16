@@ -43,7 +43,7 @@ This forms the **first layer** of CNN.
 ## Deeper Layers of CNN
 - **2nd Layer**: Object Detection
 - **3rd Layer**: High-level abstraction (e.g., faces, objects)
- Application of filters increases with depth (as you grow into the layers.)
+ > Application of filters increases with depth (as you grow into the layers.)
 ---
  
 
