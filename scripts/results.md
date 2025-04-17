@@ -10,3 +10,6 @@ There is a small generalization gap in the final few epochs — indicating poten
 Validation accuracy is slightly lower, indicating slight overfitting but still generalizes well.
 
 epochs - An epoch is one complete pass through the entire training dataset by the model.
+Cross-entropy is a loss function used to measure how well a classification model’s predicted probabilities match the actual labels.
+
+We usef categorical_crossentropy because your task is a multi-class classification problem with one-hot encoded labels. Here's a breakdown
