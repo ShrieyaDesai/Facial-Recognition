@@ -22,5 +22,4 @@ Build a robust model that:
 ## Literature Survey
 
 See [`literature_survey/survey.md`](Literature_Survey/Survey.md) for papers reviewed:
-- [1] Rothe et al. (2015), *DEX: Deep EXpectation of apparent age from a single image*  
-- [2] Others to be added...
+- Rothe et al. (2015), *DEX: Deep EXpectation of apparent age from a single image*  
