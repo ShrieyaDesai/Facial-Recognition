@@ -5,7 +5,7 @@ This project uses facial images to classify **gender** and **predict age** using
 ##  Objective
 Build a robust model that:
 - Classifies **gender** (Male/Female)
-- Predicts **age** from face images
+- Predicts **age group** (Child/Teen/Adult/Senior)
 - Can be extended for real-time applications like attendance based on facial recognition 
 
 ---
